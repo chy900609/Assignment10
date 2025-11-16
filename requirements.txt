@@ -47,7 +47,7 @@ python-dotenv==1.2.1
 python-multipart==0.0.20
 pywin32==311
 referencing==0.37.0
-requests==2.19.1
+requests==2.32.4
 rich==13.5.3
 rpds-py==0.28.0
 ruamel.yaml==0.18.16
