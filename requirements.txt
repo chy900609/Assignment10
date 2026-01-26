@@ -1,4 +1,4 @@
-﻿annotated-types==0.7.0
+annotated-types==0.7.0
 anyio==4.11.0
 attrs==25.4.0
 boltons==21.0.0
@@ -44,7 +44,7 @@ pydantic_core==2.41.5
 pyflakes==3.4.0
 Pygments==2.19.2
 python-dotenv==1.2.1
-python-multipart==0.0.20
+python-multipart==0.0.22
 pywin32==311
 referencing==0.37.0
 requests==2.32.4
