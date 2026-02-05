@@ -1,4 +1,4 @@
-﻿annotated-types==0.7.0
+annotated-types==0.7.0
 anyio==4.11.0
 attrs==25.4.0
 boltons==21.0.0
@@ -36,7 +36,7 @@ opentelemetry-semantic-conventions==0.58b0
 opentelemetry-util-http==0.58b0
 packaging==25.0
 peewee==3.18.3
-protobuf==6.33.1
+protobuf==6.33.5
 pycodestyle==2.14.0
 pydantic==2.12.4
 pydantic-settings==2.12.0
